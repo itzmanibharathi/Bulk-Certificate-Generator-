@@ -1,4 +1,4 @@
-# CertifyForge — Bulk Certificate Generator
+# CertiFlow — Bulk Certificate Generator
 
 A production-ready full-stack application for asynchronous bulk certificate generation, real-time status monitoring, individual failure isolation, and single/ZIP downloads. Built with a high-performance **FastAPI** backend and a modern **React (Vite)** frontend featuring a custom glassmorphic design system.
 
